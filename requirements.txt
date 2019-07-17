@@ -11,7 +11,6 @@ google-api-python-client==1.6.4
 graphviz==0.8.1
 gspread==0.6.2
 hebrew-tokenizer==1.0.1
-lxml==3.7.3
 nbconvert==5.2.1
 nbformat==4.3.0
 notebook==5.0.0
