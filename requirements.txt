@@ -4,7 +4,7 @@ beautifulsoup4==4.6.0
 chardet==3.0.4
 google-api-python-client==1.6.4
 gspread==0.6.2
-nbconvert==5.2.1
+nbconvert==6.5.1
 nbformat==4.3.0
 notebook==5.0.0
 numpy==1.11.2
